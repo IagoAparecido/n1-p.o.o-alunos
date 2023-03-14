@@ -1,5 +1,5 @@
 # n1-p.o.o-alunos
-N1 de Programação Orientada a Objeto I
+N1 da disciplina Programação Orientada a Objeto I
 
 Classe aluno em java
 
