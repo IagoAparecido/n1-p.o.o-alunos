@@ -12,7 +12,11 @@ public class ProgramaAluno {
     aluno.ra = 73780;
     aluno.semestre = 3;
 
+    System.out.println("------------------");
+
     System.out.println(aluno.ResumoAluno());
+
+    System.out.println("------------------");
 
   } 
 
