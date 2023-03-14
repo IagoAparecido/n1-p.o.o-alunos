@@ -3,10 +3,11 @@ public class Aluno {
   String sobrenome;
   int idade;
   int ra;
-  String curso;
   int semestre;
+  
+  Curso curso = new Curso();
 
   String ResumoAluno() {
-    return nome + " " + sobrenome + "\n" + idade + " anos" + "\n" + ra + "\n" + curso + "\n" + semestre + " semestre";
+    return "Nome: " +nome + " " + sobrenome + "\n"+ "Idade: " + idade + " anos" + "\n" + "R.A: " + ra + "\n" + "Curso: "+ curso.nome + "\n" + "Coordenador: "+ curso.coordenador + "\n" + semestre + " semestre";
   }
 }

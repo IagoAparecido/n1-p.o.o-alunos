@@ -8,14 +8,15 @@ public class ProgramaAluno {
     aluno.nome = "Iago";
     aluno.sobrenome = "Ferreira";
     aluno.idade = 20;
-    aluno.curso = "Analise e Desenvolvimento de Sistemas";
     aluno.ra = 73780;
     aluno.semestre = 3;
 
+    aluno.curso.nome = "Analise e Desenvolvimento de Sistemas";
+    aluno.curso.coordenador = "Elizeu";
+
+    System.out.println("Dados do Aluno:");
     System.out.println("------------------");
-
     System.out.println(aluno.ResumoAluno());
-
     System.out.println("------------------");
 
   } 
