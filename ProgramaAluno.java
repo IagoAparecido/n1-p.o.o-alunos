@@ -18,6 +18,12 @@ public class ProgramaAluno {
     System.out.println("------------------");
     System.out.println(aluno.ResumoAluno());
     System.out.println("------------------");
+    
+
+    String[] disciplinas = {"Matemática", "Programação", "Inglês"};
+    for (int i = 0; i < disciplinas.length; i++) {
+        System.out.println(disciplinas[i]);
+    };
 
   } 
 
