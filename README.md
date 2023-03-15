@@ -8,4 +8,4 @@ Requesitos: nome(String), sobrenome(String), ra(int), idade(int), curso(String),
 
 Ao rodar o código será printado:
 
-![image](https://user-images.githubusercontent.com/100394244/225049379-ea69662c-3cf3-46ee-876c-f210a399b708.png)
+![image](https://user-images.githubusercontent.com/100394244/225346816-728cab6b-f7ba-4ed9-a203-d2a5040acc80.png)
