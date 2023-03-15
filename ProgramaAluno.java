@@ -37,11 +37,6 @@ public class ProgramaAluno {
     System.out.println("Disciplinas");
     System.out.println("------------------");
 
-    
     System.out.println(aluno.disciplinas.resulmoDisciplinas());
-    // String InfoDisciplinas() {
-    //   for (int i = 0; i < 5; i++) {
-    //       System.out.println(aluno.disciplinas.nome[i]);
-    //   }
     }
 }
